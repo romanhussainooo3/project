@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color:rgb(0, 0, 0);
+}
+.fa{
+    width: 7px;
+    height: 7px;
+    border-radius: 100px;
+    padding:30px;
+    margin-left: 600px;
+    text-decoration: none;
+}
+.fa-facebook{
+    background-color: rgb(255, 0, 0);
+    color: antiquewhite;
+}
+.fa-linkedin{
+    background-color: blue;
+    color: red;
+}
+.fa-calendar{
+    background-color: rgba(0, 203, 254, 0.997);
+    color: rgb(255, 255, 255);
+}
+.fa-home{
+    background-color: rgb(255, 162, 0);
+    color: rgb(255, 255, 255);
+}
+.fa-snapchat{
+    background-color: rgb(255, 81, 0);
+    color: rgb(255, 255, 255);
+}
+.fa-anchor{
+    background-color:rgb(102, 85, 2);
+    color: rgb(255, 147, 5);
+}
+.fa-telegram{
+    background-color:rgb(78, 4, 75);
+    color: rgb(255, 4, 4);
+}
+.fa-car{
+    background-color:rgb(71, 35, 35);
+    color: rgb(255, 0, 0);
+}
+.fa-camera{
+    background-color:rgb(88, 90, 87);
+    color: rgb(38, 0, 255)
+}
+.fa-desktop{
+    background-color:rgb(255, 234, 0);
+    color: rgb(255, 0, 0);
+}
+.fa:hover{
+    cursor: pointer;
+    background-color: rgb(0, 255, 13);
+    border: 2.5px solid red;
+  }
+  .fa:focus{
+    background-color: cyan;
+    color: rgb(255, 255, 255);
+    
+  }
